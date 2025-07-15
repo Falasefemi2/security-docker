@@ -1,4 +1,6 @@
 package com.femi.securitydocker.enumfolder;
 
-public class Role {
+public enum Role {
+    ADMIN,
+    USER
 }
